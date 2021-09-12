@@ -17,7 +17,7 @@
      <a href="https://t.me/Alysson8" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   </div>
   
-  ![Snake animation](https://github.com/alysson-sm/Alysson-sm/blob/output/github-contribution-grid-snake.svg)
+  
   
   
   
