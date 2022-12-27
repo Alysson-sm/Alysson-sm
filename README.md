@@ -1,6 +1,5 @@
  <div>
   <a href="https://github.com/Alysson-sm">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alysson-sm&show_icons=true&theme=radical&include_all_commits=true&count_private=true &title_color=blue"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-sm&layout=compact&langs_count=7&theme=radical&title_color=blue"/>
 </div>
   
